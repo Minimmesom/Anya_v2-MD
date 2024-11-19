@@ -17,7 +17,7 @@ module.exports = {
      * owner details and parameters
      */
     ownername: process.env.Owner_Name || "Pika~Kun",
-    ownernumber: process.env.Owner_Number || "916900904828",
+    ownernumber: process.env.Owner_Number || "2347013326114",
     instagramId: process.env.Insta || "3.69_pika",
 
     /**
@@ -42,7 +42,7 @@ module.exports = {
     aliveMedia: readFileSync("./lib/Assets/aliveMedia.mp4"),
     menuMedia: readFileSync('./lib/Assets/menuMedia.mp4'),
     ownerMentionMp3: readFileSync('./lib/Assets/ownerMentionMp3.mp3'),  // audio for mention reply audio media
-
+"Oqj92CZ87KIhB34_A_N_Y_A_V_2_wdc1W"
     /**
      * core parameters and values
      */
